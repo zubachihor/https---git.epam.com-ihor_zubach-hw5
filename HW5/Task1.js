@@ -10,3 +10,4 @@ class Apple extends Fruit {
     this.created = Date.now();
   }
 }
+

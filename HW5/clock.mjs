@@ -37,3 +37,4 @@ export class Clock {
 let clock = new Clock({ template: "h:m:s" });
 
 clock.start();
+
